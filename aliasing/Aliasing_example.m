@@ -1,6 +1,6 @@
 close all;
 %%
-f    = 10;
+f    = 29;
 fs    = 40;
 %% Make time vectors
 
